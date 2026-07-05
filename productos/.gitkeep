@@ -187,3 +187,113 @@ VALUES (
     3, 
     'https://github.com/Cbas2004/bodegamap-imagenes/blob/f1426a48dbb89fae275e8271b693773826fea541/Travesuras.png'
 );
+-------------------------------------------------------------------------------------------------
+MANUEL - BEBIDAS
+
+INSERT INTO producto (nombre, descripcion, id_categoria, imagen_url)
+VALUES (
+    'KR 220ml',
+    'Gaseosa KR botella de plástico personal',
+    1,
+    'https://raw.githubusercontent.com/Cbas2004/bodegamap-imagenes/b593cef65347031b1b889a9da125dda6e59bbd4e/KR-220ml.png'
+);
+
+-------------------------------------------------------------------------------------------------
+
+INSERT INTO producto (nombre, descripcion, id_categoria, imagen_url)
+VALUES (
+    'Coca-Cola 250ml',
+    'Gaseosa Coca-Cola botella de plástico personal',
+    1,
+    'https://raw.githubusercontent.com/Cbas2004/bodegamap-imagenes/b593cef65347031b1b889a9da125dda6e59bbd4e/Coca-cola-250ml.png'
+);
+
+-------------------------------------------------------------------------------------------------
+
+INSERT INTO producto (nombre, descripcion, id_categoria, imagen_url)
+VALUES (
+    'Guaraná 300ml',
+    'Gaseosa Guaraná botella de plástico personal',
+    1,
+    'https://raw.githubusercontent.com/Cbas2004/bodegamap-imagenes/b593cef65347031b1b889a9da125dda6e59bbd4e/Guarana-300ml.png'
+);
+
+-------------------------------------------------------------------------------------------------
+
+INSERT INTO producto (nombre, descripcion, id_categoria, imagen_url)
+VALUES (
+    'Cool 350ml',
+    'Gaseosa Cool botella de plástico personal',
+    1,
+    'https://raw.githubusercontent.com/Cbas2004/bodegamap-imagenes/b593cef65347031b1b889a9da125dda6e59bbd4e/Cool-350ml.png'
+);
+
+-------------------------------------------------------------------------------------------------
+
+INSERT INTO producto (nombre, descripcion, id_categoria, imagen_url)
+VALUES (
+    'Big Cola 400ml',
+    'Gaseosa Big Cola botella de plástico personal',
+    1,
+    'https://raw.githubusercontent.com/Cbas2004/bodegamap-imagenes/b593cef65347031b1b889a9da125dda6e59bbd4e/BigCola-400ml.png'
+);
+
+-------------------------------------------------------------------------------------------------
+
+INSERT INTO producto (nombre, descripcion, id_categoria, imagen_url)
+VALUES (
+    'Sprite 500ml',
+    'Gaseosa Sprite botella de plástico personal',
+    1,
+    'https://raw.githubusercontent.com/Cbas2004/bodegamap-imagenes/b593cef65347031b1b889a9da125dda6e59bbd4e/Sprite-500ml.png'
+);
+
+-------------------------------------------------------------------------------------------------
+
+INSERT INTO producto (nombre, descripcion, id_categoria, imagen_url)
+VALUES (
+    'HeyFit 600ml',
+    'Bebida HeyFit botella de plástico',
+    1,
+    'https://raw.githubusercontent.com/Cbas2004/bodegamap-imagenes/b593cef65347031b1b889a9da125dda6e59bbd4e/HeyFit-600ml.png'
+);
+
+-------------------------------------------------------------------------------------------------
+
+INSERT INTO producto (nombre, descripcion, id_categoria, imagen_url)
+VALUES (
+    'Oro 1L',
+    'Gaseosa Oro botella de plástico familiar',
+    1,
+    'https://raw.githubusercontent.com/Cbas2004/bodegamap-imagenes/b593cef65347031b1b889a9da125dda6e59bbd4e/Oro-1L.png'
+);
+
+-------------------------------------------------------------------------------------------------
+
+INSERT INTO producto (nombre, descripcion, id_categoria, imagen_url)
+VALUES (
+    'Pepsi 1.5L',
+    'Gaseosa Pepsi botella de plástico familiar',
+    1,
+    'https://raw.githubusercontent.com/Cbas2004/bodegamap-imagenes/b593cef65347031b1b889a9da125dda6e59bbd4e/Pepsi-1.5L.png'
+);
+
+-------------------------------------------------------------------------------------------------
+
+INSERT INTO producto (nombre, descripcion, id_categoria, imagen_url)
+VALUES (
+    'Inka Kola 2.5L',
+    'Gaseosa Inka Kola botella de plástico familiar',
+    1,
+    'https://raw.githubusercontent.com/Cbas2004/bodegamap-imagenes/b593cef65347031b1b889a9da125dda6e59bbd4e/InkaKola-2.5L.jpg'
+);
+
+-------------------------------------------------------------------------------------------------
+
+INSERT INTO producto (nombre, descripcion, id_categoria, imagen_url)
+VALUES (
+    'Concordia 3L',
+    'Gaseosa Concordia botella de plástico familiar',
+    1,
+    'https://raw.githubusercontent.com/Cbas2004/bodegamap-imagenes/b593cef65347031b1b889a9da125dda6e59bbd4e/Concordia-3L.png'
+);
