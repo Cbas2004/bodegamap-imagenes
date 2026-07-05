@@ -35,3 +35,155 @@ EJEMPLO
 SEBAS- CHOCOLATES
 INSERT ........
 -------------------------------------------------------------
+SAUL -GALLETAS
+INSERT INTO producto (nombre, descripcion, id_categoria, imagen_url) 
+VALUES (
+    'Tentacion ', 
+    'Sabor Chocolate ', 
+    3, 
+    'https://github.com/Cbas2004/bodegamap-imagenes/blob/a5c7ada1e602ce3375ba28beb1b6f64300c6eeb7/tentacion.png'
+);
+----------------------------------------------------------------------------------------------
+
+SAUL-GALLETAS
+INSERT INTO producto (nombre, descripcion, id_categoria, imagen_url) 
+VALUES (
+    'Casino ', 
+    'Sabor Chocolate', 
+    3, 
+    'https://github.com/Cbas2004/bodegamap-imagenes/blob/e8ddfce05c378a2a465573194ee95474330539cd/casino.png'
+);
+----------------------------------------------------------------------------------------------------------------
+
+SAUL-GALLETAS
+INSERT INTO producto (nombre, descripcion, id_categoria, imagen_url) 
+VALUES (
+    'Casino ', 
+    'Sabor Fresa', 
+    3, 
+    'https://github.com/Cbas2004/bodegamap-imagenes/blob/e8ddfce05c378a2a465573194ee95474330539cd/casinofresa.png'
+);
+
+-----------------------------------------------------------------------------------------------------------------------
+SAUL-GALLETAS
+INSERT INTO producto (nombre, descripcion, id_categoria, imagen_url) 
+VALUES (
+    ' ChokoSoda', 
+    'Sabor Chocolate', 
+    3, 
+    'https://github.com/Cbas2004/bodegamap-imagenes/blob/e8ddfce05c378a2a465573194ee95474330539cd/chokosoda.png'
+);
+
+-----------------------------------------------------------------------------------------------------------------------
+SAUL-GALLETAS
+INSERT INTO producto (nombre, descripcion, id_categoria, imagen_url) 
+VALUES (
+    'Soda Field', 
+    'Sabor Clasico', 
+    3, 
+    'https://github.com/Cbas2004/bodegamap-imagenes/blob/5f7bc11f324b79d21071bae86f7b69e46882554d/fieldsoda.png'
+);
+
+
+-----------------------------------------------------------------------------------------------------------------------
+SAUL-GALLETAS
+INSERT INTO producto (nombre, descripcion, id_categoria, imagen_url) 
+VALUES (
+    'Margarita', 
+    'Sabor Clasico', 
+    3, 
+    'https://github.com/Cbas2004/bodegamap-imagenes/blob/5f7bc11f324b79d21071bae86f7b69e46882554d/margarita.png'
+);
+-----------------------------------------------------------------------------------------------------------------------
+SAUL-GALLETAS
+INSERT INTO producto (nombre, descripcion, id_categoria, imagen_url) 
+VALUES (
+    'Oreo  ', 
+    'Sabor Clasico', 
+    3, 
+    'https://github.com/Cbas2004/bodegamap-imagenes/blob/5f7bc11f324b79d21071bae86f7b69e46882554d/oreo.png'
+);
+
+-----------------------------------------------------------------------------------------------------------------------
+SAUL-GALLETAS
+INSERT INTO producto (nombre, descripcion, id_categoria, imagen_url) 
+VALUES (
+    'Picaras', 
+    'Sabor Clasico', 
+    3, 
+    'https://github.com/Cbas2004/bodegamap-imagenes/blob/5f7bc11f324b79d21071bae86f7b69e46882554d/picaras.png'
+);
+
+-----------------------------------------------------------------------------------------------------------------------
+SAUL-GALLETAS
+INSERT INTO producto (nombre, descripcion, id_categoria, imagen_url) 
+VALUES (
+    'Rellenitas ', 
+    'Sabor Fresa', 
+    3, 
+    'https://github.com/Cbas2004/bodegamap-imagenes/blob/362a48c6cbe054158ca2e66fad69245f85214f5e/rellenitasfresa.png'
+);
+-----------------------------------------------------------------------------------------------------------------------
+SAUL-GALLETAS
+INSERT INTO producto (nombre, descripcion, id_categoria, imagen_url) 
+VALUES (
+    'Rellenita ', 
+    'Sabor Chocolate ', 
+    3, 
+    'https://github.com/Cbas2004/bodegamap-imagenes/blob/362a48c6cbe054158ca2e66fad69245f85214f5e/rellenitaschocolate.png'
+);
+-----------------------------------------------------------------------------------------------------------------------
+SAUL-GALLETAS
+INSERT INTO producto (nombre, descripcion, id_categoria, imagen_url) 
+VALUES (
+    ' Glacitas ', 
+    'Sabor Fresa', 
+    3, 
+    'https://github.com/Cbas2004/bodegamap-imagenes/blob/362a48c6cbe054158ca2e66fad69245f85214f5e/glacitasfresa.png'
+);
+-----------------------------------------------------------------------------------------------------------------------
+SAUL-GALLETAS
+INSERT INTO producto (nombre, descripcion, id_categoria, imagen_url) 
+VALUES (
+    ' Glacitas', 
+    'Sabor Chocolate', 
+    3, 
+    https://github.com/Cbas2004/bodegamap-imagenes/blob/362a48c6cbe054158ca2e66fad69245f85214f5e/glacitaschocolate.png'
+);
+
+-----------------------------------------------------------------------------------------------------------------------
+SAUL-GALLETAS
+INSERT INTO producto (nombre, descripcion, id_categoria, imagen_url) 
+VALUES (
+    ' BlackOut', 
+    'Sabor Chocolate', 
+    3, 
+    'https://github.com/Cbas2004/bodegamap-imagenes/blob/362a48c6cbe054158ca2e66fad69245f85214f5e/Blackout.png'
+);
+-----------------------------------------------------------------------------------------------------------------------
+SAUL-GALLETAS
+INSERT INTO producto (nombre, descripcion, id_categoria, imagen_url) 
+VALUES (
+    'ChipsAhoy ', 
+    'Sabor Chocolate ', 
+    3, 
+    'https://github.com/Cbas2004/bodegamap-imagenes/blob/172e43e6aee8be21276f8926a91ce0be73f79dc7/ChipsAhoy.png'
+);
+-----------------------------------------------------------------------------------------------------------------------
+SAUL-GALLETAS
+INSERT INTO producto (nombre, descripcion, id_categoria, imagen_url) 
+VALUES (
+    'Animalitos ', 
+    'Galleta Dulce', 
+    3, 
+    'https://github.com/Cbas2004/bodegamap-imagenes/blob/f1426a48dbb89fae275e8271b693773826fea541/Animalitos.png'
+);
+-----------------------------------------------------------------------------------------------------------------------
+SAUL-GALLETAS
+INSERT INTO producto (nombre, descripcion, id_categoria, imagen_url) 
+VALUES (
+    'Travesuras ', 
+    'Sabor Chocolate', 
+    3, 
+    'https://github.com/Cbas2004/bodegamap-imagenes/blob/f1426a48dbb89fae275e8271b693773826fea541/Travesuras.png'
+);
