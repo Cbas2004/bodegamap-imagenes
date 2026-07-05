@@ -1,1 +1,37 @@
+SINTAXIS DE PRODUCTOS
+---CATEGORIAS---
+EJEMPLO
+"idCategoria": 1,
+    "nombre": "Bebidas",
+    "descripcion": "Todo tipo de líquidos y gaseosas"
+BEBIDAS ES CATEGORIA 1
+INSERT INTO producto (nombre, descripcion, id_categoria, imagen_url) 
+VALUES (
+    'Inka Kola 500ml', 
+    'Gaseosa Inka Kola botella de plástico personal', 
+    1,                                                                                  -> TODA BEBIDA ES CATEGORIA 1 
+    'https://raw.githubusercontent.com/TuUsuario/bodegamap-imagenes/main/inkakola.png'   -> AHI VA EL LINK QUE LES ENSEÑARE A SACAR
+);
+--------------------------------------------------------------------------------------
+ID CATEGORIA 2 : SNACKS
+ID CATEGORIA 3 : GALLETAS
+ID CATEGORIA 4 : PAPELERIA
+ID CATEGORIA 5 : AUN POR DEFINIR DE MOMENTO ESOS 4
 
+LO QUE QUIERO QUE HAGAN ES SUBIR LA IMAGEN, COPIAN EL LINK Y ESCRIBAN LOS INSERTS POR SEPARADO!
+
+EJEMPLO DE MANUEL
+
+INSERT INTO producto (nombre, descripcion, id_categoria, imagen_url) 
+VALUES (
+    'Guarana 500ml', 
+    'Gaseosa Guarana botella de plástico personal', 
+    1, 
+    'LINK DE LA IMAGEN DE GUARANA'
+);
+------------------------AQUI ABAJO EN ORDEN LO REALIZAN PORFAVOR, SEPAREN SUS PARTES CON UN TITULO, SU NOMBRE Y EL SIGNO MENOS ------------------------
+EJEMPLO
+-------------------------------------------------------------------------------------------------
+SEBAS- CHOCOLATES
+INSERT ........
+-------------------------------------------------------------
