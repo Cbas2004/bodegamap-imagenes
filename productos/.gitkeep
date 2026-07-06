@@ -10,7 +10,7 @@ VALUES (
     'Inka Kola 500ml', 
     'Gaseosa Inka Kola botella de plástico personal', 
     1,                                                                                  -> TODA BEBIDA ES CATEGORIA 1 
-    'https://raw.githubusercontent.com/TuUsuario/bodegamap-imagenes/main/inkakola.png'   -> AHI VA EL LINK QUE LES ENSEÑARE A SACAR
+    'https://raw.githubusercontent.com/Cbas2004/bodegamap-imagenes/70ce367b9a11dff2f479cc89b93454ef050b3106/Inca_500ml.webp'   -> AHI VA EL LINK QUE LES ENSEÑARE A SACAR
 );
 --------------------------------------------------------------------------------------
 ID CATEGORIA 2 : SNACKS
