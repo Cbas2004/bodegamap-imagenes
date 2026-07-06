@@ -407,3 +407,77 @@ VALUES (
     4,
     'https://raw.githubusercontent.com/Cbas2004/bodegamap-imagenes/86f267986c9e954adc169daa3edcc41a99441b61/gomabarra.png'
 );
+-----------------------------------------------------------------------------------------------------------------------
+SAUL-GALLETAS
+INSERT INTO producto (nombre, descripcion, id_categoria, imagen_url) 
+VALUES (
+    'Tentacion ', 
+    'Sabor Vainilla ', 
+    22, 
+    'https://raw.githubusercontent.com/Cbas2004/bodegamap-imagenes/8826ed3a726f6cccbb77a6b263bd43cfe05b7737/TentacionVainilla.png'
+
+);
+-----------------------------------------------------------------------------------------------------------------------
+SAUL-GALLETAS
+INSERT INTO producto (nombre, descripcion, id_categoria, imagen_url) 
+VALUES (
+    'Tentacion  ', 
+    'Sabor Naranja', 
+    22, 
+    'https://raw.githubusercontent.com/Cbas2004/bodegamap-imagenes/8826ed3a726f6cccbb77a6b263bd43cfe05b7737/TentacionNaranja.png'
+);
+
+-----------------------------------------------------------------------------------------------------------------------
+SAUL-GALLETAS
+INSERT INTO producto (nombre, descripcion, id_categoria, imagen_url) 
+VALUES (
+    'Tentacion', 
+    'Sabor Coco', 
+    22, 
+    'https://raw.githubusercontent.com/Cbas2004/bodegamap-imagenes/8826ed3a726f6cccbb77a6b263bd43cfe05b7737/TentacionCoco.png'
+);
+-----------------------------------------------------------------------------------------------------------------------
+SAUL-GALLETAS
+INSERT INTO producto (nombre, descripcion, id_categoria, imagen_url) 
+VALUES (
+    'Nik', 
+    'Sabor Fresa', 
+    22, 
+    'https://raw.githubusercontent.com/Cbas2004/bodegamap-imagenes/8826ed3a726f6cccbb77a6b263bd43cfe05b7737/NikFresa.png'
+);
+-----------------------------------------------------------------------------------------------------------------------
+SAUL-GALLETAS
+INSERT INTO producto (nombre, descripcion, id_categoria, imagen_url) 
+VALUES (
+    'Nik', 
+    'Sabor Chocolate', 
+    22, 
+    'https://raw.githubusercontent.com/Cbas2004/bodegamap-imagenes/8826ed3a726f6cccbb77a6b263bd43cfe05b7737/NikChocolate.png'
+);
+-----------------------------------------------------------------------------------------------------------------------
+SAUL-GALLETAS
+INSERT INTO producto (nombre, descripcion, id_categoria, imagen_url) 
+VALUES (
+    'Picaras', 
+    'Sabor Fresa', 
+    22, 
+    'https://raw.githubusercontent.com/Cbas2004/bodegamap-imagenes/b3449adb9db2c308278cb30aad40aac61365d69a/PicarasFresa.png'
+);
+-----------------------------------------------------------------------------------------------------------------------
+SAUL-GALLETAS
+INSERT INTO producto (nombre, descripcion, id_categoria, imagen_url) 
+VALUES (
+    'Oreo', 
+    'Sabor vainilla', 
+    22, 
+    'https://raw.githubusercontent.com/Cbas2004/bodegamap-imagenes/b3449adb9db2c308278cb30aad40aac61365d69a/oreovainilla.png'
+);
+-----------------------------------------------------------------------------------------------------------------------
+SAUL-GALLETAS
+INSERT INTO producto (nombre, descripcion, id_categoria, imagen_url) 
+VALUES (
+    'Cuacua', 
+    'Sabor Chocolate', 
+    22, 
+    'https://raw.githubusercontent.com/Cbas2004/bodegamap-imagenes/b3449adb9db2c308278cb30aad40aac61365d69a/cuacuachocolate.png'
+);
