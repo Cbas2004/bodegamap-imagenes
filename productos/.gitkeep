@@ -297,3 +297,113 @@ VALUES (
     1,
     'https://raw.githubusercontent.com/Cbas2004/bodegamap-imagenes/b593cef65347031b1b889a9da125dda6e59bbd4e/Concordia-3L.png'
 );
+
+---------------------------------------------------------------------------------------------------
+
+INSERT INTO producto (nombre, descripcion, id_categoria, imagen_url)
+VALUES (
+    'Lapicero',
+    'Lapicero azul FaberCastell azul',
+    4,
+    'https://raw.githubusercontent.com/Cbas2004/bodegamap-imagenes/86f267986c9e954adc169daa3edcc41a99441b61/Lapicero.png'
+);
+
+---------------------------------------------------------------------------------------------------
+
+INSERT INTO producto (nombre, descripcion, id_categoria, imagen_url)
+VALUES (
+    'Lapiz',
+    'Lapiz 2B Faber Castell',
+    4,
+    'https://raw.githubusercontent.com/Cbas2004/bodegamap-imagenes/86f267986c9e954adc169daa3edcc41a99441b61/lapiz.png'
+);
+
+---------------------------------------------------------------------------------------------------
+
+INSERT INTO producto (nombre, descripcion, id_categoria, imagen_url)
+VALUES (
+    'Regla',
+    'Regla de 30cm Artesco',
+    4,
+    'https://raw.githubusercontent.com/Cbas2004/bodegamap-imagenes/86f267986c9e954adc169daa3edcc41a99441b61/regla.png'
+);
+
+---------------------------------------------------------------------------------------------------
+
+INSERT INTO producto (nombre, descripcion, id_categoria, imagen_url)
+VALUES (
+    'Cuaderno',
+    'Cuaderno Standford tapa azul',
+    4,
+    'https://raw.githubusercontent.com/Cbas2004/bodegamap-imagenes/86f267986c9e954adc169daa3edcc41a99441b61/cuaderno.png'
+);
+
+---------------------------------------------------------------------------------------------------
+
+INSERT INTO producto (nombre, descripcion, id_categoria, imagen_url)
+VALUES (
+    'Folder',
+    'Folder Artesco naranja',
+    4,
+    'https://raw.githubusercontent.com/Cbas2004/bodegamap-imagenes/86f267986c9e954adc169daa3edcc41a99441b61/folder.png'
+);
+
+---------------------------------------------------------------------------------------------------
+
+INSERT INTO producto (nombre, descripcion, id_categoria, imagen_url)
+VALUES (
+    'Borrador',
+    'Borrador Artesco Rectangular Chico Blanco',
+    4,
+    'https://raw.githubusercontent.com/Cbas2004/bodegamap-imagenes/86f267986c9e954adc169daa3edcc41a99441b61/borrador.png'
+);
+
+---------------------------------------------------------------------------------------------------
+
+INSERT INTO producto (nombre, descripcion, id_categoria, imagen_url)
+VALUES (
+    'Tajador',
+    'Tajador largo Artesco',
+    4,
+    'https://raw.githubusercontent.com/Cbas2004/bodegamap-imagenes/86f267986c9e954adc169daa3edcc41a99441b61/tajador.png'
+);
+
+---------------------------------------------------------------------------------------------------
+
+INSERT INTO producto (nombre, descripcion, id_categoria, imagen_url)
+VALUES (
+    'Corrector',
+    'Corrector Artesco',
+    4,
+    'https://raw.githubusercontent.com/Cbas2004/bodegamap-imagenes/86f267986c9e954adc169daa3edcc41a99441b61/corrector.png'
+);
+
+---------------------------------------------------------------------------------------------------
+
+INSERT INTO producto (nombre, descripcion, id_categoria, imagen_url)
+VALUES (
+    'Notas Adhesivas',
+    'Notas Adhesivas Artesco',
+    4,
+    'https://raw.githubusercontent.com/Cbas2004/bodegamap-imagenes/86f267986c9e954adc169daa3edcc41a99441b61/notasadhesivas.png'
+);
+
+---------------------------------------------------------------------------------------------------
+
+INSERT INTO producto (nombre, descripcion, id_categoria, imagen_url)
+VALUES (
+    'Tijera',
+    'Tijera Faber Castell mango rojo',
+    4,
+    'https://raw.githubusercontent.com/Cbas2004/bodegamap-imagenes/86f267986c9e954adc169daa3edcc41a99441b61/tijera.png'
+);
+
+---------------------------------------------------------------------------------------------------
+
+INSERT INTO producto (nombre, descripcion, id_categoria, imagen_url)
+VALUES (
+    'Goma en Barra',
+    'Goma en Barra Faber Castell',
+    4,
+    'https://raw.githubusercontent.com/Cbas2004/bodegamap-imagenes/86f267986c9e954adc169daa3edcc41a99441b61/gomabarra.png'
+);
